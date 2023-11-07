@@ -28,3 +28,5 @@ WHEN all prompts are answered,
 THEN a password is generated that matches the selected criteria.
 WHEN the password is generated
 THEN the password is displayed and written to the page.
+
+![Screenshot (116)](https://github.com/maferadr/password-generator-Maria/assets/95540471/677d834f-c167-483b-b822-00f3cc9d0dfe)
